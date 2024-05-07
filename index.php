@@ -13,6 +13,7 @@ if($con) {
 	print("Connection gud");
 }else{
 	print("ruh roh");
+	hy6thytbg
 }
 
 */
